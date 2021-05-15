@@ -6,12 +6,13 @@ Installation:
 - Done!
 
 How to use the mod:
-Keyboard:
-Press "E" to start playing piano when you are close to a piano or when you are close to a guitar
-Press "R" to stop playing piano and guitar.
-Controller:
-Press "X" (XBOX controller) or "Square" (PS4 controller) to start playing piano when you are close to a piano or you are close to a guitar.
-Press "B" (XBOX controller) or "Circle" (PS4 controller) to stop playing piano and guitar.
+-Keyboard:
+-Press "E" to start playing piano when you are close to a piano or when you are close to a guitar
+-Press "R" to stop playing piano and guitar.
+
+-Controller:
+-Press "X" (XBOX controller) or "Square" (PS4 controller) to start playing piano when you are close to a piano or you are close to a guitar.
+-Press "B" (XBOX controller) or "Circle" (PS4 controller) to stop playing piano and guitar.
 
 Description:
 This mod gives you the ability to play the piano and the guitar on any Saloon in the game.
