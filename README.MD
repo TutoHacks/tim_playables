@@ -6,6 +6,7 @@ Installation:
 - Done!
 
 How to use the mod:
+
 **Keyboard:**
 - Press "E" to start playing piano when you are close to a piano or when you are close to a guitar
 - Press "R" to stop playing piano and guitar.
